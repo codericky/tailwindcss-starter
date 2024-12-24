@@ -2,7 +2,7 @@
     "name": "myapp",
     "version": "1.0.0",
     "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+    "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css"
     },
     "devDependencies": {
         "autoprefixer": "^10.x.x",
